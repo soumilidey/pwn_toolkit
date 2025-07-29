@@ -14,6 +14,7 @@ This project is built from the ground up in Python.
 #Features
 
 | Module         | Description |
+|----------------|-------------|
 | Reconnaissance | Passive & active target information gathering (IP, DNS, WHOIS, etc.) |
 | Port Scanning  | Fast TCP scanning with service identification |
 | Web Scanner    | HTTP inspection, header analysis, form detection (XSS, SQLi modules planned) |
