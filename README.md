@@ -1,6 +1,6 @@
 # pwn_toolkit
 python-based red team toolkit that automates recon, port scanning, web vulnerability detection, and password attacks.
-Disclaimer: For educational and ethical use only. This toolkit is designed to be used in *controlled environments*. Never use it on live systems or real targets without permission.
+> Disclaimer: For educational and ethical use only. This toolkit is designed to be used in *controlled environments*. Never use it on live systems or real targets without permission.
 
 #Project Overview
 
